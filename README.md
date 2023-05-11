@@ -1,1 +1,1 @@
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d55228780.81236326!2d23.693138150637992!3d32.34146743791057!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sru!2sru!4v1683800616988!5m2!1sru!2sru" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<img src="https://i.giphy.com/media/t6WwQCamyqzU7mZeGG/giphy.webp">
